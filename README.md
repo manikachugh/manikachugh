@@ -2,7 +2,7 @@
 
 I am Graduate student pursuing Masters of Science in Applied Quantitataive Economic Analysis and policy at Pace University, New York, NY. I am also a part-time Graduate Research Assistant to Professor Kier Hanratty, Pace University, New York, NY. I completed my Undergrad in Bachelor of Arts (Economics)(Honours) from Guru Gobind Singh Indraprastha University, New Delhi, India in 2019.
 
-# Intersets
+# Interests
 
 Data Analysis, Data Visualization, International Trade
 
