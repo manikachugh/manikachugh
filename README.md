@@ -12,7 +12,4 @@ Pronouns: she/her/hers
 [curriculum Vitae] (Chugh, Manika.pdf)
 ur GitHub profile.
 
-[[params.social]]
-    icon = "linkedin"
-    icon_pack = "fa"
-    link = "www.linkedin.com/in/chughmanika"
+[linkedln](www.linkedin.com/in/chughmanika)
