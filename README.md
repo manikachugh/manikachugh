@@ -6,7 +6,9 @@ I’m looking for help with coding in R and Python
 
 Pronouns: she/her/hers
 
-[linkedln](www.linkedin.com/in/chughmanika)
+[curriculum vitae] (Chugh, Manika.pdf)
+(https://github.com/manikachugh/manikachugh/files/10532155/Chugh.Manika.pdf)
+
 
 
 <!--
