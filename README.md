@@ -6,7 +6,7 @@ I am Graduate student pursuing Masters of Science in Applied Quantitataive Econo
 
 Data Analysis, Data Visualization, International Trade
 
-[Resume]
+[Resume](https://github.com/manikachugh/manikachugh/blob/b56e8e2620ab6725a143994d587840f357f5814d/Chugh,%20Manika.pdf)
 
 
 
