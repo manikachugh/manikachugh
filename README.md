@@ -13,3 +13,7 @@ Pronouns: she/her/hers
 (https://github.com/manikachugh/manikachugh/files/10531938/Chugh.Manika.pdf)
 ur GitHub profile.
 
+[[params.social]]
+    icon = "linkedin"
+    icon_pack = "fa"
+    link = "www.linkedin.com/in/chughmanika"
