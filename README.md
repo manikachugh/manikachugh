@@ -4,7 +4,7 @@ I am Graduate student pursuing Masters of Science in Applied Quantitataive Econo
 
 # Intersets
 
-Data Analysis, International Trade
+Data Analysis, Data Visualization, International Trade
 
 [curriculum vitae] (Chugh, Manika.pdf)
 (https://github.com/manikachugh/manikachugh/files/10532155/Chugh.Manika.pdf)
