@@ -2,9 +2,9 @@
 
 I am Graduate student pursuing Masters of Science in Applied Quantitataive Economic Analysis and policy at Pace University, New York, NY. I am also a part-time Graduate Research Assistant to Professor Kier Hanratty, Pace University, New York, NY. I completed my Undergrad in Bachelor of Arts (Economics)(Honours) from Guru Gobind Singh Indraprastha University, New Delhi, India in 2019.
 
-I’m looking for help with coding in R and Python 
+# Intersets
 
-Pronouns: she/her/hers
+Data Analysis, International Trade
 
 [curriculum vitae] (Chugh, Manika.pdf)
 (https://github.com/manikachugh/manikachugh/files/10532155/Chugh.Manika.pdf)
