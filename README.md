@@ -8,7 +8,8 @@ Pronouns: she/her/hers
 
 
 <!--
-**manikachugh/manikachugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yo[Chugh, Manika.pdf]
+**manikachugh/manikachugh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on yo
+[Chugh, Manika.pdf]
 (https://github.com/manikachugh/manikachugh/files/10531938/Chugh.Manika.pdf)
 ur GitHub profile.
 
