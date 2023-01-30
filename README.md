@@ -5,7 +5,7 @@ I’m currently learning Github, R and Python
 I’m looking for help with coding in R and Python 
 
 Pronouns: she/her/hers
-+
+
 [linkedln](www.linkedin.com/in/chughmanika)
 
 
